@@ -4,6 +4,10 @@ Multai is a colorful, yet easy on the eyes theme for Xcode, and it is inspired b
 
 If you like it or have colorful suggestions (see what I did there), tweet me @Rizk_Taker
 
+
+![alt text](https://raw.githubusercontent.com/nrizk6/Multai-Xcode-ColorTheme/master/Multai-Screenshot.png "Multai")
+
+
 ### Directions
 
 1. <code> $ git clone https://github.com/nrizk6/Multai-Xcode-ColorTheme.git</code>
