@@ -16,7 +16,7 @@ If you like it or have colorful suggestions (see what I did there), tweet me @Ri
 
 5. <code>Crush some code</code>
 
-<code>*** if you get an error on step 3 because no FontAndColorThemes directory exists:
+*** if you get an error on step 3 because no FontAndColorThemes directory exists:
 
-$ mkdir -p ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
-then repeat from step 3</code>
+<code>$ mkdir -p ~/Library/Developer/Xcode/UserData/FontAndColorThemes/</code>
+then repeat from step 3
