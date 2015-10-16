@@ -6,7 +6,17 @@ If you like it or have colorful suggestions (see what I did there), tweet me @Ri
 
 ### Directions
 
-1. Clone this repository 
-2. Move Multai.dtvcolortheme to: /Users/$(YOU)/Library/Developer/Xcode/UserData/FontAndColorThemes/
-3. Restart Xcode and go to Preferences > Fonts & Colors > select Multai from the left menu
-4. Crush some code
+1. <code> $ git clone https://github.com/nrizk6/Multai-Xcode-ColorTheme.git</code>
+
+2. <code>2. $ cd multai-xcode-colortheme</code>
+
+3. <code>$ cp *.dvtcolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes/</code>
+
+4. <code>Restart Xcode and go to Preferences > Fonts & Colors > select Multai from the left menu</code>
+
+5. <code>Crush some code</code>
+
+<code>*** if you get an error on step 3 because no FontAndColorThemes directory exists:
+
+$ mkdir -p ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
+then repeat from step 3</code>
