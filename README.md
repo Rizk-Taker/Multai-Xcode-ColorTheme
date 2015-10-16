@@ -1,6 +1,6 @@
 # Multai Colortheme for Xcode
 
-Multai is a colorful, yet easy on the eyes theme for Xcode, and it is inspired by Atom's Dark. I created this colortheme because most themes, if not all of the ones I've encountered, have the same color values for Classes, Functions, Constants, etc. This theme has different colors for each while trying to not be overwhelmingly colorful.
+Multai is a colorful, yet easy on the eyes theme for Xcode, and it is inspired by Atom's One Dark. I created this colortheme because most themes, if not all of the ones I've encountered, have the same color values for Classes, Functions, Constants, etc. This theme has different colors for each while trying to not be overwhelmingly colorful.
 
 If you like it or have colorful suggestions (see what I did there), tweet me @Rizk_Taker
 
