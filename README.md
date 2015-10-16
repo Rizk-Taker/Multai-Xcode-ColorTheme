@@ -4,7 +4,7 @@ Multai is a colorful, yet easy on the eyes theme for Xcode, and it is inspired b
 
 If you like it or have colorful suggestions (see what I did there), tweet me @Rizk_Taker
 
-<h3>Directions</3>
+### Directions
 
 Clone this repository and move Multai.dtvcolortheme to /Users/$(YOU)/Library/Developer/Xcode/UserData/FontAndColorThemes/
 Restart Xcode and go to Preferences > Fonts & Colors > select Multai from the left menu
